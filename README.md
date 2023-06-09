@@ -19,5 +19,5 @@ I'm a software engineer, passionate about coding, technologies and open-source.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlusYoung&layout=compact&theme=vue)
 
 ## 🤝 Connect with me:
-[<img align="left" alt="PlusYoung | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://www.linkedin.com/in/yyanga/](https://www.linkedin.com/in/yang-y-1b3338238/))
+[<img align="left" alt="PlusYoung | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yang-y-1b3338238/)
 
