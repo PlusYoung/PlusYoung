@@ -21,5 +21,5 @@ I'm a software engineer, passionate about coding, technologies and open-source.
 
 
 ## 🤝 Connect with me:
-[<img align="left" alt="PlusYoung | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yang-y-1b3338238/)
+[<img align="left" alt="PlusYoung | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yang-y-1b3338238/) 👈Open my Linkedin 😃
 
