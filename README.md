@@ -1,6 +1,6 @@
 # Hi, I'm PlusYoung 👋
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=PlusYoung&theme=flat&row=1&column=2" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=PlusYoung&theme=flat&row=1&column=5" />
 </div>
 
 
