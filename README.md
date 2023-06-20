@@ -12,8 +12,6 @@ I'm a software engineer, passionate about coding, technologies and open-source.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-## 🔥 My Contributions:
-![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlusYoung&show_icons=true&theme=vue&hide=contribs,prs)
 
 ## 💻 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlusYoung&layout=compact&theme=vue)
