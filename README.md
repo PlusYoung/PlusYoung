@@ -8,13 +8,13 @@
 ## 🚀 About Me
 I'm a software engineer, passionate about coding, technologies and open-source.
 
-- Computer Skills: Python, C++, Unix/Linux, Git, GitHub
-- Financial Product Knowledge: Fixed Income, Credit Risk, Market Risk
-- Quantitative Skills: Factor Analysis, Bayesian Statistics, PCA, Time Series Analysis, MCMC
-- Machine Learning: Supervised Machine Learning (AdaBoost, XGBoost, LightGBM), Unsupervised
-Machine Learning (K-means, Autoencoder), Deep Learning
-- Competitions: WorldQuant challenge Competition - Gold Medal (WorldQuant BRAIN Research
-Consultant); Kaggle Data Analysis Competition - Silver Medal (Top 5%)
+- Computer Skills:`Python`, `C++`, `Unix/Linux`, `Git`, `GitHub`
+- Financial Product Knowledge: `Fixed Income`, `Credit Risk`, `Market Risk`
+- Quantitative Skills: `Factor Analysis, Bayesian Statistics, PCA, Time Series Analysis, MCMC`
+- Machine Learning: `Supervised Machine Learning (AdaBoost, XGBoost, LightGBM), Unsupervised
+Machine Learning (K-means, Autoencoder), Deep Learning`
+- Competitions: `WorldQuant challenge Competition - Gold Medal (WorldQuant BRAIN Research
+Consultant); Kaggle Data Analysis Competition - Silver Medal (Top 5%)`
 
 
 ## 💻 Top Languages:
